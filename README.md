@@ -1,3 +1,4 @@
+# Chat Playground with Streamlit and Groq API
 This project is about building a chatbot playground using Python, Streamlit, and Groq. The project covers the following topics:
 
 * Installing Python and Visual Studio Code
